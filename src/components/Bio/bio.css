@@ -1,0 +1,16 @@
+#bio-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#bio-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1em
+}
+
+#headshot{
+    width: 45%;
+}
