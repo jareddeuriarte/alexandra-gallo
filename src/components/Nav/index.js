@@ -8,8 +8,6 @@ function Nav() {
 
 <img id='logo' alt='logo' src='/images/logo.png'></img>
 
-
-        <h3>Work</h3> 
         <a>Design + Merchandising</a>
         <a>Photography</a>
         <a>Social</a>
