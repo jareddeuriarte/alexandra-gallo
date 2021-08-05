@@ -1,9 +1,10 @@
 import './App.css';
 import Bio from "./components/Bio/index"
-import Projects from "./components/Projects/index"
 import Header from "./components/Header/index"
 import Hero from "./components/Hero/index"
 import Nav from "./components/Nav/index"
+import DM from "./components/DM/index"
+
 
 function App() {
   return (
@@ -12,11 +13,19 @@ function App() {
     <div>
       <Header></Header>
       <Hero></Hero>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+
       <div id='main'>
       <Nav></Nav>
       <Bio></Bio>
       </div>
-      <Projects></Projects>
+      
+      <DM></DM>
 
     </div>
   );

@@ -7,7 +7,7 @@
 
 
 #logo{
-    width: 50%;
+    width: 30%;
 }
 
 a{
@@ -15,3 +15,8 @@ a{
     padding-bottom: 1rem;
 }
 
+
+a:hover {
+    color: #75a5da ;
+
+  }

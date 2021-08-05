@@ -6,7 +6,7 @@ function Nav() {
   return (
     <div id='nav-container'>
 
-<img id='logo' alt='logo' src='/images/logo.png'></img>
+    <img id='logo' alt='logo' src='/images/logo.png'></img>
 
         <a>Design + Merchandising</a>
         <a>Photography</a>
