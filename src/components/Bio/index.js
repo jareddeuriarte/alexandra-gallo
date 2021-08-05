@@ -1,4 +1,5 @@
 import React from "react";
+import Nav from "../Nav/index"
 import "./bio.css";
 
 
@@ -6,6 +7,8 @@ function Bio() {
   return (
 
     <div id='bio-container'>
+
+      <Nav></Nav>
 
     <div id="bio-details">
         <h2>Hello, I'm Alexandra Gallo</h2>
