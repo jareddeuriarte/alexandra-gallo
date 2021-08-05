@@ -2,7 +2,7 @@ import './App.css';
 import Bio from "./components/Bio/index"
 import Header from "./components/Header/index"
 import Hero from "./components/Hero/index"
-// import Nav from "./components/Nav/index"
+import Nav from "./components/Nav/index"
 import DM from "./components/DM/index"
 
 import {
@@ -26,12 +26,13 @@ function App() {
         <br></br>
         <br></br>
         <br></br>
+        <div id='main'>
+        <Nav></Nav>
         <Switch>
           <Route exact path="/" component={Bio} />
           <Route exact path="/dm" component={DM} />
         </Switch>
-
-        {/* <DM></DM> */}
+        </div>
 
       </div>
     </Router>

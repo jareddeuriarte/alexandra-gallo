@@ -8,7 +8,7 @@ function Bio() {
 
     <div id='bio-container'>
 
-      <Nav></Nav>
+      {/* <Nav></Nav> */}
 
     <div id="bio-details">
         <h2>Hello, I'm Alexandra Gallo</h2>

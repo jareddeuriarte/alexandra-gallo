@@ -8,7 +8,7 @@ function DM() {
   return (
     <div id='dm-flex-container'>
       
-    <Nav></Nav>
+    {/* <Nav></Nav> */}
       <div id='dm-container'>
 
         <img alt='placeholder' src='https://via.placeholder.com/150'></img>

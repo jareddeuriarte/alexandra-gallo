@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alexandra-gallo/static/css/main.b8a883e6.chunk.css",
+    "main.js": "/alexandra-gallo/static/js/main.2107b01f.chunk.js",
+    "main.js.map": "/alexandra-gallo/static/js/main.2107b01f.chunk.js.map",
+    "runtime-main.js": "/alexandra-gallo/static/js/runtime-main.6b759cde.js",
+    "runtime-main.js.map": "/alexandra-gallo/static/js/runtime-main.6b759cde.js.map",
+    "static/js/2.64fd8d1d.chunk.js": "/alexandra-gallo/static/js/2.64fd8d1d.chunk.js",
+    "static/js/2.64fd8d1d.chunk.js.map": "/alexandra-gallo/static/js/2.64fd8d1d.chunk.js.map",
+    "index.html": "/alexandra-gallo/index.html",
+    "static/css/main.b8a883e6.chunk.css.map": "/alexandra-gallo/static/css/main.b8a883e6.chunk.css.map",
+    "static/js/2.64fd8d1d.chunk.js.LICENSE.txt": "/alexandra-gallo/static/js/2.64fd8d1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b759cde.js",
+    "static/js/2.64fd8d1d.chunk.js",
+    "static/css/main.b8a883e6.chunk.css",
+    "static/js/main.2107b01f.chunk.js"
+  ]
+}
