@@ -3,7 +3,6 @@ import React from "react";
 import "./bio.css";
 import headshot from '../../images/headshot.jpg'
 
-
 function Bio() {
   return (
 
@@ -23,6 +22,7 @@ function Bio() {
     </div>
 
     <img id='headshot' alt='headshot' src={headshot}/>
+
 
   
     </div>

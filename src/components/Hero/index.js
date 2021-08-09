@@ -1,17 +1,17 @@
 import React from "react";
 import "./hero.css";
+import bridge from '../../images/alex-on-bridge.jpg'
+import level from '../../images/alex-and-level.jpg'
+import rooftop from '../../images/alex-on-rooftop.jpg'
 
-// Give this component props to make it resuable and dry
-// and create "images.json" to pass through the src attribute
-// and import json to App.js
 
 function Hero() {
   return (
     <div id='hero-container'>
         
-        <img className='hero-images' alt='alex-on-bridge' src='/images/alex-on-bridge.jpg'></img>
-        <img className='hero-images' alt='alex-and-level' src='/images/alex-and-level.jpg'></img>
-        <img className='hero-images' alt='alex-on-rooftop.jpg' src='/images/alex-on-rooftop.jpg'></img>
+        <img className='hero-images' alt='alex-on-bridge' src={bridge}></img>
+        <img className='hero-images' alt='alex-and-level' src={level}></img>
+        <img className='hero-images' alt='alex-on-rooftop.jpg' src={rooftop}></img>
 
 
     </div>

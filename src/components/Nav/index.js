@@ -1,5 +1,7 @@
 import React from "react";
 import "./nav.css";
+import logo from '../../images/logo.png'
+
 
 
 function Nav() {
@@ -7,7 +9,7 @@ function Nav() {
     <div id='nav-container'>
 
 
-        <img id='logo' alt='logo' src='/images/logo.png'></img>
+        <img id='logo' alt='logo' src={logo}></img>
       
       <a href="/">About</a>
       <a href="/dm">Design + Merchandising</a>

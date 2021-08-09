@@ -2,7 +2,8 @@ import React from "react";
 import "./header.css";
 
 
-function Bio() {
+
+function Header() {
   return (
     <div>
         <h1 id='name'>Alexandra Gallo</h1>
@@ -10,4 +11,4 @@ function Bio() {
   );
 }
 
-export default Bio;
+export default Header;
