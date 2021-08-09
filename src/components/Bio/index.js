@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "../Nav/index"
+// import Nav from "../Nav/index"
 import "./bio.css";
 
 
@@ -21,8 +21,8 @@ function Bio() {
         </p>
     </div>
 
-    <img id='headshot' alt='headshop' src='/images/headshot.jpg'></img>
-    
+    <img id='headshot' alt='headshot' src='/images/headshot.jpg'/>
+  
     </div>
   );
 }
