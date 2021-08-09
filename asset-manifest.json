@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/alexandra-gallo/static/css/main.b8a883e6.chunk.css",
-    "main.js": "/alexandra-gallo/static/js/main.c0aedeef.chunk.js",
-    "main.js.map": "/alexandra-gallo/static/js/main.c0aedeef.chunk.js.map",
+    "main.css": "/alexandra-gallo/static/css/main.53f0756e.chunk.css",
+    "main.js": "/alexandra-gallo/static/js/main.540754c7.chunk.js",
+    "main.js.map": "/alexandra-gallo/static/js/main.540754c7.chunk.js.map",
     "runtime-main.js": "/alexandra-gallo/static/js/runtime-main.1a710877.js",
     "runtime-main.js.map": "/alexandra-gallo/static/js/runtime-main.1a710877.js.map",
     "static/js/2.1dfa830b.chunk.js": "/alexandra-gallo/static/js/2.1dfa830b.chunk.js",
     "static/js/2.1dfa830b.chunk.js.map": "/alexandra-gallo/static/js/2.1dfa830b.chunk.js.map",
     "index.html": "/alexandra-gallo/index.html",
-    "static/css/main.b8a883e6.chunk.css.map": "/alexandra-gallo/static/css/main.b8a883e6.chunk.css.map",
-    "static/js/2.1dfa830b.chunk.js.LICENSE.txt": "/alexandra-gallo/static/js/2.1dfa830b.chunk.js.LICENSE.txt"
+    "static/css/main.53f0756e.chunk.css.map": "/alexandra-gallo/static/css/main.53f0756e.chunk.css.map",
+    "static/js/2.1dfa830b.chunk.js.LICENSE.txt": "/alexandra-gallo/static/js/2.1dfa830b.chunk.js.LICENSE.txt",
+    "static/media/headshot.f2280041.jpg": "/alexandra-gallo/static/media/headshot.f2280041.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1a710877.js",
     "static/js/2.1dfa830b.chunk.js",
-    "static/css/main.b8a883e6.chunk.css",
-    "static/js/main.c0aedeef.chunk.js"
+    "static/css/main.53f0756e.chunk.css",
+    "static/js/main.540754c7.chunk.js"
   ]
 }
