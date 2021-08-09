@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alexandra-gallo/static/css/main.53f0756e.chunk.css",
-    "main.js": "/alexandra-gallo/static/js/main.540754c7.chunk.js",
-    "main.js.map": "/alexandra-gallo/static/js/main.540754c7.chunk.js.map",
+    "main.js": "/alexandra-gallo/static/js/main.b956d94e.chunk.js",
+    "main.js.map": "/alexandra-gallo/static/js/main.b956d94e.chunk.js.map",
     "runtime-main.js": "/alexandra-gallo/static/js/runtime-main.1a710877.js",
     "runtime-main.js.map": "/alexandra-gallo/static/js/runtime-main.1a710877.js.map",
     "static/js/2.1dfa830b.chunk.js": "/alexandra-gallo/static/js/2.1dfa830b.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.1a710877.js",
     "static/js/2.1dfa830b.chunk.js",
     "static/css/main.53f0756e.chunk.css",
-    "static/js/main.540754c7.chunk.js"
+    "static/js/main.b956d94e.chunk.js"
   ]
 }
