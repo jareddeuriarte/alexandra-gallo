@@ -29,8 +29,8 @@ function App() {
         <div id='main'>
         <Nav></Nav>
         <Switch>
-          <Route exact path="/" component={Bio} />
-          <Route exact path="/dm" component={DM} />
+          <Route exact path={process.env.PUBLIC_URL + '/'} component={Bio} />
+          <Route  exact path={process.env.PUBLIC_URL + 'dm'} component={DM} />
         </Switch>
         </div>
 
