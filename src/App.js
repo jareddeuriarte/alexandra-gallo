@@ -4,6 +4,9 @@ import Header from "./components/Header/index"
 import Hero from "./components/Hero/index"
 import Nav from "./components/Nav/index"
 import DM from "./components/DM/index"
+import Photo from "./components/Photo/index"
+
+
 
 import {
   BrowserRouter as Router,
@@ -20,12 +23,22 @@ function App() {
       <div>
         <Header></Header>
         <Hero></Hero>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
         <Nav></Nav>
-      <div className='main'>
-        <Switch>
-          <Route exact path='/' component={Bio} />
-          <Route  exact path='/dm' component={DM} />
-        </Switch>
+        <div className='main'>
+          <Switch>
+            <Route exact path='/' component={Bio} />
+            <Route exact path='/dm' component={DM} />
+            <Route exact path='/photo' component={Photo} />
+
+          </Switch>
         </div>
 
       </div>

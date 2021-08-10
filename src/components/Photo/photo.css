@@ -1,12 +1,12 @@
 
 
-#dm-flex-container{
+#photo-flex-container{
     display: flex;
     justify-content: center;
 }
 
 
-#dm-grid{
+#photo-grid{
     display: grid;
     grid-auto-flow: row;
     height: 100%;
@@ -15,8 +15,8 @@
     grid-template-rows: repeat(3, 1fr) ;
 }
 
-.dm-photo{
+
+.grid-photo{
     width: 20em;
     box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, .3);
 }
-
