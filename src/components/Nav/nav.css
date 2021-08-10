@@ -1,8 +1,20 @@
+#nav-wrapper{
+    display: flex;
+    position: absolute;
+    
+
+}
+  
+ 
+
+
 #nav-container{
     display:flex;
     flex-direction: column;
     justify-content: center;
     place-items: center;
+    max-width: 25%;
+
 }
 
 

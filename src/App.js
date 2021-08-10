@@ -20,14 +20,8 @@ function App() {
       <div>
         <Header></Header>
         <Hero></Hero>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <div id='main'>
         <Nav></Nav>
+      <div className='main'>
         <Switch>
           <Route exact path='/' component={Bio} />
           <Route  exact path='/dm' component={DM} />

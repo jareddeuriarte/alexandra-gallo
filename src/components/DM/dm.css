@@ -1,10 +1,12 @@
+
+
 #dm-flex-container{
     display: flex;
     justify-content: center;
 }
 
 
-#dm-container{
+#dm-grid{
     display: grid;
     grid-auto-flow: row;
     height: 100%;
@@ -12,3 +14,4 @@
     grid-template-columns: repeat(3, 1fr) ; 
     grid-template-rows: repeat(3, 1fr) ;
 }
+

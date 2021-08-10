@@ -6,6 +6,9 @@ import logo from '../../images/logo.png'
 
 function Nav() {
   return (
+
+  
+<div id='nav-wrapper'>
     <div id='nav-container'>
 
 
@@ -21,6 +24,8 @@ function Nav() {
 
 
     </div>
+    </div>
+    
   );
 }
 
