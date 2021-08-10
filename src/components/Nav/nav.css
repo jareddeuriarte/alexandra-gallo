@@ -4,9 +4,6 @@
     
 
 }
-  
- 
-
 
 #nav-container{
     display:flex;
@@ -23,6 +20,10 @@
 }
 
 a{
+    
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
     padding-top: 1rem;
     padding-bottom: 1rem;
     color: inherit;
@@ -31,6 +32,6 @@ a{
 
 
 a:hover {
-    color: #75a5da ;
+    color: #be9781;
 
   }

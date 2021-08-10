@@ -9,7 +9,7 @@ function Bio() {
       <div id='bio-container'>
 
         <div id="bio-details">
-          <h2>Hello, I'm Alexandra Gallo</h2>
+          <h2>Hi, I'm Alexandra Gallo</h2>
 
           <p>  Ex ad sit ad laboris enim. Laboris tempor nulla pariatur incididunt.
             Pariatur non adipisicing tempor ea ullamco exercitation. Dolor cillum
