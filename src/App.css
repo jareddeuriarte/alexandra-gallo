@@ -1,10 +1,32 @@
-.main{
+/* .main{
     display: flex;
     justify-content: center;
     margin: auto;
    
 
+} */
+
+
+.main{
+    display: grid;
+    grid-template-columns: min-content auto;
+    grid-gap: 1em;
+    grid-template-areas:
+    "nav wrapper";
 }
 
 
+/* .test-div{
+    background-color: blueviolet;
+} */
 
+
+#nav-wrapper{
+    grid-area: nav;
+
+}
+
+.content-wrapper{
+    grid-area: wrapper;
+ 
+}

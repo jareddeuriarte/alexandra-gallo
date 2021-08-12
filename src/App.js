@@ -22,23 +22,25 @@ function App() {
 
       <div>
         <Header></Header>
-        <Hero></Hero>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <Nav></Nav>
+        {/* <Hero></Hero> */}
+
         <div className='main'>
+
+          <div id='nav-wrapper'>
+            <Nav></Nav>
+          </div>
+
           <Switch>
+          <div className='content-wrapper'>
+
             <Route exact path='/' component={Bio} />
             <Route exact path='/dm' component={DM} />
             <Route exact path='/photo' component={Photo} />
+            </div>
 
           </Switch>
+
+        
         </div>
 
       </div>

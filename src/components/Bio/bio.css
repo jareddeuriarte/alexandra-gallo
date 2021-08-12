@@ -8,8 +8,8 @@
 #bio-details{
     display: flex;
     flex-direction: column;
-    max-width: 30%;
     padding: 1em;
+    width: 31em;
 }
 
 #bio-details p{

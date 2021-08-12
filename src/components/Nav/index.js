@@ -8,22 +8,20 @@ function Nav() {
   return (
 
   
-<div id='nav-wrapper'>
     <div id='nav-container'>
 
 
         <img id='logo' alt='logo' src={logo}></img>
       
       <a href="/">About</a>
-      <a href="/dm">Design + Merchandising</a>
+      <a href="/dm">D + M</a>
       <a href='photo'>Photography</a>
       <a href='social'>Social</a>
-      <a target="_blank" rel="noopener noreferrer" href='https://www.yogallo.com/'>Yoga</a>
+      <a id='yoga' target="_blank" rel="noopener noreferrer" href='https://www.yogallo.com/'>Yoga</a>
 
 
 
 
-    </div>
     </div>
     
   );

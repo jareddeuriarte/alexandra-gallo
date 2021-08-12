@@ -1,22 +1,21 @@
-#nav-wrapper{
+/* #nav-wrapper{
     display: flex;
     position: absolute;
     
 
-}
+} */
 
 #nav-container{
     display:flex;
     flex-direction: column;
     justify-content: center;
     place-items: center;
-    max-width: 25%;
-
+    padding-left: 3em;
 }
 
 
 #logo{
-    width: 30%;
+    width: 70%;
 }
 
 a{
@@ -34,4 +33,11 @@ a{
 a:hover {
     color: #be9781;
 
+  }
+
+
+
+  #yoga{
+    font-family: commune, sans-serif;
+    color: #75a5da;
   }
