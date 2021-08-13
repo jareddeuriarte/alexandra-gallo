@@ -1,11 +1,11 @@
 import React from "react";
 import "./dm.css";
-import donatella from '../../images/dm/donatella.png'
-import figure from '../../images/dm/figure1.png'
-import figures from '../../images/dm/figures.png'
-import romper from '../../images/dm/romper.png'
-import tierra from '../../images/dm/tierra.png'
-import united from '../../images/dm/united.png'
+import donatella from '../../assets/dm/donatella.png'
+import figure from '../../assets/dm/figure1.png'
+import figures from '../../assets/dm/figures.png'
+import romper from '../../assets/dm/romper.png'
+import tierra from '../../assets/dm/tierra.png'
+import united from '../../assets/dm/united.png'
 
 
 function DM() {

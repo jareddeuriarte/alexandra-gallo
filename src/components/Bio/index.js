@@ -1,6 +1,6 @@
 import React from "react";
 import "./bio.css";
-import headshot from '../../images/headshot.jpg'
+import headshot from '../../assets/bio/headshot.jpg'
 
 function Bio() {
   return (

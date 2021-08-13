@@ -1,7 +1,7 @@
 import './App.css';
 import Bio from "./components/Bio/index"
 import Header from "./components/Header/index"
-import Hero from "./components/Hero/index"
+// import Hero from "./components/Hero/index"
 import Nav from "./components/Nav/index"
 import DM from "./components/DM/index"
 import Photo from "./components/Photo/index"

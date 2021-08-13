@@ -1,11 +1,11 @@
 import React from "react";
 import "./photo.css";
-import pablo1 from '../../images/photo/pablo1.png'
-import jared from '../../images/photo/jared.png'
-import sunflower from '../../images/photo/sunflower.png'
-import ballerina from '../../images/photo/ballerina.png'
-import pablo2 from '../../images/photo/pablo2.png'
-import tutu from '../../images/photo/tutu.png'
+import pablo1 from '../../assets/photo/pablo1.png'
+import jared from '../../assets/photo/jared.png'
+import sunflower from '../../assets/photo/sunflower.png'
+import ballerina from '../../assets/photo/ballerina.png'
+import pablo2 from '../../assets/photo/pablo2.png'
+import tutu from '../../assets/photo/tutu.png'
 
 
 

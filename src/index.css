@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Uber';
-    src: local('Uber'), url(../src/images/assets/fonts/Az-Sans-Uber-W01-Regular.woff) format('woff');
+    src: local('Uber'), url(../src/assets/fonts/Az-Sans-Uber-W01-Regular.woff) format('woff');
   }
 
 
   @font-face {
     font-family:'Commune';
-    src: local('Commune'), url(../src/images/assets/fonts/commune-webfont.woff) format('woff');
+    src: local('Commune'), url(../src/assets/fonts/commune-webfont.woff) format('woff');
   }
 
 
