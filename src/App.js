@@ -5,6 +5,8 @@ import Header from "./components/Header/index"
 import Nav from "./components/Nav/index"
 import DM from "./components/DM/index"
 import Photo from "./components/Photo/index"
+import Social from "./components/Social/index"
+
 
 
 
@@ -36,6 +38,8 @@ function App() {
             <Route exact path='/' component={Bio} />
             <Route exact path='/dm' component={DM} />
             <Route exact path='/photo' component={Photo} />
+            <Route exact path='/social' component={Social} />
+
             </div>
 
           </Switch>
