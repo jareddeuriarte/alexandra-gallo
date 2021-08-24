@@ -26,6 +26,7 @@
 
 #headshot{
     max-height: 17em;
+    /* width: auto; */
     padding: 1em;
 
 }

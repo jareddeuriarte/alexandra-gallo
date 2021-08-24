@@ -6,6 +6,7 @@ import Nav from "./components/Nav/index"
 import DM from "./components/DM/index"
 import Photo from "./components/Photo/index"
 import Social from "./components/Social/index"
+import Footer from "./components/Footer/index"
 
 
 
@@ -46,6 +47,24 @@ function App() {
 
         
         </div>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+
+        <Footer></Footer>
+
+
 
       </div>
     </Router>
